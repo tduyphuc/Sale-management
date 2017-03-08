@@ -1,0 +1,5 @@
+G:\C#\ProductForm\EntityClass\bin\Debug\EntityClass.dll
+G:\C#\ProductForm\EntityClass\bin\Debug\EntityClass.pdb
+G:\C#\ProductForm\EntityClass\obj\Debug\EntityClass.csprojResolveAssemblyReference.cache
+G:\C#\ProductForm\EntityClass\obj\Debug\EntityClass.dll
+G:\C#\ProductForm\EntityClass\obj\Debug\EntityClass.pdb

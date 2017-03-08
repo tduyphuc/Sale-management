@@ -1,0 +1,8 @@
+G:\C#\ProductForm\TestForm\bin\Debug\TestForm.exe.config
+G:\C#\ProductForm\TestForm\bin\Debug\TestForm.exe
+G:\C#\ProductForm\TestForm\bin\Debug\TestForm.pdb
+G:\C#\ProductForm\TestForm\obj\Debug\TestForm.Form1.resources
+G:\C#\ProductForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+G:\C#\ProductForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+G:\C#\ProductForm\TestForm\obj\Debug\TestForm.exe
+G:\C#\ProductForm\TestForm\obj\Debug\TestForm.pdb
